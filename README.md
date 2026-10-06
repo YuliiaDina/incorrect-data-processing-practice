@@ -21,7 +21,7 @@ The assignments are divided into two parts: calling library functions (`.py` scr
 
 **Part 1: Foundations of Linear Algebra and Computation**
 - [x] Practice 1: Vectors, norms, angles, linear systems (`vectors.py`)
-- [ ] Practice 2: Matrix arithmetic, rank and basis (`matrices.py`)
+- [x] Practice 2: Matrix arithmetic, rank and basis (`matrices.py`)
 - [ ] Practice 3: Linear and affine mappings (`matrix_mapping.py`)
 - [ ] Practice 4: Matrix decomposition (LU, QR, SVD) (`matrix_decomposition.py`)
 - [ ] Practice 5: Regularization (Ridge, Lasso) (`regularization.py`)
@@ -48,7 +48,7 @@ The assignments are divided into two parts: calling library functions (`.py` scr
 ## Структура курсу
 **Частина 1: Основи лінійної алгебри та обчислень**
 - [x] Практика 1: Вектори, норми, кути та лінійні системи (`vectors.py`)
-- [ ] Практика 2: Матрична арифметика, ранг та базис (`matrices.py`)
+- [x] Практика 2: Матрична арифметика, ранг та базис (`matrices.py`)
 - [ ] Практика 3: Лінійні та афінні відображення (`matrix_mapping.py`)
 - [ ] Практика 4: Декомпозиція матриць (LU, QR, SVD) (`matrix_decomposition.py`)
 - [ ] Практика 5: Регуляризація моделей (Ridge, Lasso) (`regularization.py`)
