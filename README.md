@@ -23,8 +23,8 @@ The assignments are divided into two parts: calling library functions (`.py` scr
 - [x] Practice 1: Vectors, norms, angles, linear systems (`vectors.py`)
 - [x] Practice 2: Matrix arithmetic, rank and basis (`matrices.py`)
 - [x] Practice 3: Linear and affine mappings (`matrix_mapping.py`)
-- [ ] Practice 4: Matrix decomposition (LU, QR, SVD) (`matrix_decomposition.py`)
-- [ ] Practice 5: Regularization (Ridge, Lasso) (`regularization.py`)
+- [x] Practice 4: Matrix decomposition (LU, QR, SVD) (`matrix_decomposition.py`)
+- [x] Practice 5: Regularization (Ridge, Lasso) (`regularization.py`)
 
 **Part 2: Building Algorithms**
 - [ ] Practice 6: Gaussian mixtures and the EM algorithm (`tutorial_gmm.ipynb`)
@@ -50,8 +50,8 @@ The assignments are divided into two parts: calling library functions (`.py` scr
 - [x] Практика 1: Вектори, норми, кути та лінійні системи (`vectors.py`)
 - [x] Практика 2: Матрична арифметика, ранг та базис (`matrices.py`)
 - [x] Практика 3: Лінійні та афінні відображення (`matrix_mapping.py`)
-- [ ] Практика 4: Декомпозиція матриць (LU, QR, SVD) (`matrix_decomposition.py`)
-- [ ] Практика 5: Регуляризація моделей (Ridge, Lasso) (`regularization.py`)
+- [x] Практика 4: Декомпозиція матриць (LU, QR, SVD) (`matrix_decomposition.py`)
+- [x] Практика 5: Регуляризація моделей (Ridge, Lasso) (`regularization.py`)
 
 **Частина 2: Побудова алгоритмів**
 - [ ] Практика 6: Gaussian mixtures та EM-алгоритм (`tutorial_gmm.ipynb`)
