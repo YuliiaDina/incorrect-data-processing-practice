@@ -27,9 +27,9 @@ The assignments are divided into two parts: calling library functions (`.py` scr
 - [x] Practice 5: Regularization (Ridge, Lasso) (`regularization.py`)
 
 **Part 2: Building Algorithms**
-- [ ] Practice 6: Gaussian mixtures and the EM algorithm (`tutorial_gmm.ipynb`)
-- [ ] Practice 7: PCA and Eigenfaces (`tutorial_pca.ipynb`)
-- [ ] Practice 8: SVM dual and the kernel trick (`tutorial_svm.ipynb`)
+- [x] Practice 6: Gaussian mixtures and the EM algorithm (`tutorial_gmm.ipynb`)
+- [x] Practice 7: PCA and Eigenfaces (`tutorial_pca.ipynb`)
+- [x] Practice 8: SVM dual and the kernel trick (`tutorial_svm.ipynb`)
 
 ---
 
@@ -54,6 +54,6 @@ The assignments are divided into two parts: calling library functions (`.py` scr
 - [x] Практика 5: Регуляризація моделей (Ridge, Lasso) (`regularization.py`)
 
 **Частина 2: Побудова алгоритмів**
-- [ ] Практика 6: Gaussian mixtures та EM-алгоритм (`tutorial_gmm.ipynb`)
-- [ ] Практика 7: Метод головних компонент (PCA) та Eigenfaces (`tutorial_pca.ipynb`)
-- [ ] Практика 8: Метод опорних векторів (SVM dual) та kernel trick (`tutorial_svm.ipynb`)
+- [x] Практика 6: Gaussian mixtures та EM-алгоритм (`tutorial_gmm.ipynb`)
+- [x] Практика 7: Метод головних компонент (PCA) та Eigenfaces (`tutorial_pca.ipynb`)
+- [x] Практика 8: Метод опорних векторів (SVM dual) та kernel trick (`tutorial_svm.ipynb`)
